@@ -1,2 +1,5 @@
 # KProd_Question
-A test project for hiring. I tried to make it beautiful for myself. If you have any suggestions for the code and tips, I will be happy to read them. Thanks
+Hi there!
+I certainly understand that people are not stupid, but just in case I will write. 
+In order to open the project, you need to extract the files, open the console, specify the path to the project folder, and write 'npm i', after all the files are loaded, write 'gulp'
+good bye!
